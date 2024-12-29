@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed 👋
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+![Banner]("C:\Users\EL.DAWLIA\Desktop\68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif")
 
 Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Engineer**, and an **AI Enthusiast** passionate about solving real-world problems through innovative solutions.
 
