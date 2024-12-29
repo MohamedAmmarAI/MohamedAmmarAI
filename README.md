@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Engin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-ammar79b10b308)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohumedammar@gmail.com)  
-[![WhatsApp]
 📞 **Phone**: +20 1016231323
 
 
