@@ -1,6 +1,8 @@
 # Hi, I'm Mohamed 👋
 
-![A](https://github.com/user-attachments/assets/42aeb733-a770-49cc-8409-e08e03f682b3)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/42aeb733-a770-49cc-8409-e08e03f682b3" alt="A" />
+</div>
 
 
 Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Engineer**, and an **AI Enthusiast** passionate about solving real-world problems through innovative solutions.
