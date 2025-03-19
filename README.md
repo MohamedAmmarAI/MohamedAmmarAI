@@ -43,14 +43,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Engin
 
 ---
 
-### 💻 Technologies & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ### 💬 Ask Me About:
 - Machine Learning & AI
 - Deep Learning Techniques
@@ -66,8 +58,15 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Engin
 📞 **Phone**: +20 1016231323 (WhatsApp)
 
 
-
 ---
+
+### 🏆 Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Moataz-Elmesmary&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Languages and Tools:</h3>
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 ### ⚡ Fun Fact:
 I believe the best way to learn is by doing, and I’m always ready for new challenges and collaborations!
