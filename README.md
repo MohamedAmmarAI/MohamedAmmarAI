@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Engin
   ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
 
-  - 🌐 &nbsp;
+- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
